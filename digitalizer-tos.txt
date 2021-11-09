@@ -1,0 +1,2 @@
+The specified application does no longer exist.
+But it did never collect any user data, and therefore did not process it. All operations was handled locally on the device, and no data ever left the device.
